@@ -10,3 +10,6 @@ router.v2.get('/users', handleV2);
 
 Solves: Backwards compatibility, gradual migrations, client support.
 License: MIT
+
+---
+Part of the [ferrow-toolkit](https://github.com/Ruzylo-cloud/ferrow-toolkit) collection · Sponsored by [Ferrow](https://ferrow.ai)
