@@ -1,6 +1,7 @@
 # api-versioning
+> Handle multiple API versions without code duplication.
 
-Handle multiple API versions without code duplication. ```javascript const router = new VersionedRouter();
+Handle multiple API versions without code duplication.
 
 ## API
 - `Service`
