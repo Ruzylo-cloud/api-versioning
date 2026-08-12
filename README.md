@@ -1,4 +1,8 @@
 # API Versioning
+
+```sh
+npm install @ferrow/api-versioning
+```
 ![CI](https://github.com/FerrowAI/api-versioning/actions/workflows/ci.yml/badge.svg)
 
 Handle multiple API versions without code duplication.

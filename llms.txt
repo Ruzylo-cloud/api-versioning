@@ -1,4 +1,6 @@
 # api-versioning
+
+Install: npm install @ferrow/api-versioning
 > Handle multiple API versions without code duplication.
 
 Handle multiple API versions without code duplication.
